@@ -1,0 +1,4 @@
+Brand : Venchor
+Model : 2014 DEIT
+Type : Casual 
+Price : 500$

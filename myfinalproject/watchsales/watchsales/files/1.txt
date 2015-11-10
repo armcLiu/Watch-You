@@ -1,0 +1,4 @@
+Brand : Swatch 
+Model : 2012 MsI 
+Type : Casual 
+Price : 200$ 

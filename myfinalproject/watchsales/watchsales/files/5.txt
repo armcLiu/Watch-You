@@ -1,0 +1,4 @@
+Brand : Samsung
+Model : 2013 Sn
+Type : Digital
+Price : 115$
