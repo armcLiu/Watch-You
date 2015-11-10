@@ -1,0 +1,4 @@
+Brand : Apple
+Model : 2015 DET
+Type : Digital
+Price : 750$
