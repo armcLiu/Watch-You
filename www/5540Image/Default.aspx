@@ -23,6 +23,19 @@
 
     <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
 
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+
+            <ContentTemplate> 
+                 <asp:Timer ID="Timer1" runat="server" Interval="1000" OnTick="Timer1_Tick">
+                </asp:Timer>
+
+                 <asp:Image ID="Image1" runat="server" ImageAlign="Middle" Height="500px" Width="500px" />
+
+            </ContentTemplate>
+
+
+        </asp:UpdatePanel>
+
         <table class="auto-style1">
             <tr>
                 <td class="auto-style2">
@@ -34,13 +47,12 @@
     <table class="auto-style1">
         <tr>
             <td>
-                <asp:Timer ID="Timer1" runat="server" Interval="1000" OnTick="Timer1_Tick">
-                </asp:Timer>
+               
             </td>
         </tr>
         <tr>
             <td>
-                <asp:Image ID="Image1" runat="server" ImageAlign="Middle" />
+               
             </td>
         </tr>
     </table>
