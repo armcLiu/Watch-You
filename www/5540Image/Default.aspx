@@ -12,6 +12,9 @@
         .auto-style2 {
             color: #3366CC;
         }
+        .auto-style3 {
+            color: #000000;
+        }
     </style>
 </head>
 <body>
@@ -30,7 +33,9 @@
                 </asp:Timer>
 
                  <asp:Image ID="Image1" runat="server" ImageAlign="Middle" Height="500px" Width="500px" />
-
+                 <h4>
+                        <asp:Label ID="Label1" runat="server" ></asp:Label>
+                    </h4>
             </ContentTemplate>
 
 
@@ -39,14 +44,16 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style2">
-                    <h1><strong>Online Watch Store: Flash Sale Demo</strong></h1>
+                   
                 </td>
             </tr>
         </table>
 
     <table class="auto-style1">
         <tr>
-            <td>
+            <td class="auto-style3">
+               
+                <h1><strong>Online Watch Store: Flash Sale Demo</strong></h1>
                
             </td>
         </tr>
