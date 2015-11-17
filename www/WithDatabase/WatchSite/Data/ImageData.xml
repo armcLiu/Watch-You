@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Images>
+  <image name="Watch1.jpg" order="1"></image>
+  <image name="Watch2.jpg" order="2"></image>
+  <image name="Watch3.jpg" order="3"></image>
+  <image name="Watch4.jpg" order="4"></image>
+  <image name="Watch5.jpg" order="5"></image>
+  <image name="Watch6.jpg" order="6"></image>
+  <image name="Watch7.jpg" order="7"></image>
+  <image name="Watch8.jpg" order="8"></image>
+</Images>
